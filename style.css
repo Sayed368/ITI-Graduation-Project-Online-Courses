@@ -660,7 +660,18 @@ PAGES
     font-size: 13px;
     vertical-align: baseline;
 }
+.fa-users:before {
+    margin-right: 7px;
+content: "\f0c0";}
 
+.fa-chart-line:before {
+    margin-right: 7px;
+    content: "\f201";
+}
+.fa-university:before {
+    margin-right: 5px;
+    content: "\f19c";
+}
 
 /******************************************
 EVENTS
